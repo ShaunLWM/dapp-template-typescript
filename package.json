@@ -1,6 +1,6 @@
 {
   "name": "dapp-template-typescript",
-  "version": "0.1.0",
+  "version": "0.0.1-rc.1",
   "private": true,
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.0.4",
